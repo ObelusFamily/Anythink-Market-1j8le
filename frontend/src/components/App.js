@@ -14,7 +14,7 @@ import Register from "../components/Register";
 import Settings from "../components/Settings";
 import { store } from "../store";
 import { push } from "react-router-redux";
-
+import imgs from "../imgs/background.png";
 const mapStateToProps = (state) => {
   return {
     appLoaded: state.common.appLoaded,

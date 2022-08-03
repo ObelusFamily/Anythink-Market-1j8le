@@ -24,3 +24,6 @@ Make sure your server is up and running to serve requests.
 - Profile page (URL: /#/@username, /#/@username/favorites )
   - Show basic user info
   - List of items populated from seller's items or user favorite items
+
+
+  -this is basic template for creating a user name and sign up for first time users who visiting the page first time it was created by using the -docker
